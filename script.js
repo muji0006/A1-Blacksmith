@@ -11,7 +11,7 @@
 
 // 1. Select the forge, heat, sword count, status, image, and message elements.
 //    Find their IDs in index.html.
-const $forge = document.querySelector("#forge");
+const $forge = document.querySelector( "#forge");
 const $heatValue = document.querySelector("#heat-value");
 const $swordCount = document.querySelector("#sword-count");
 const $forgeStatus = document.querySelector("#forge-status");
